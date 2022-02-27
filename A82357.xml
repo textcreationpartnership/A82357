@@ -1,0 +1,245 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sale of His Majesties prize goods by the Arms of Rotterdam to be made at the East-India-House, on Thursday the 14th. of May 1674, at eight of the clock in the morning; the particulars are, viz.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82357</idno>
+            <idno type="STC">Wing E100HB</idno>
+            <idno type="STC">ESTC R231981</idno>
+            <idno type="EEBO-CITATION">99897643</idno>
+            <idno type="PROQUEST">99897643</idno>
+            <idno type="VID">133317</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82357)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133317)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2514:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sale of His Majesties prize goods by the Arms of Rotterdam to be made at the East-India-House, on Thursday the 14th. of May 1674, at eight of the clock in the morning; the particulars are, viz.</title>
+               </titleStmt>
+               <extent>2 sheets (versos blank)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1674]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Identified as Wing E100HB, reel 2514, of the UMI microfilm set "Early English books 1641-1700".</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+                  <note>Identified by ESTC as Wing (CD-ROM, 1996) S369C.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company --  Administration --  Early works to 1800.</term>
+               <term>Prizes --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Commerce --  India --  Early works to 1800.</term>
+               <term>India --  Commerce --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="list_of_goods">
+            <pb facs="tcp:133317:1"/>
+            <head>A SALE of His MAJESTIES <hi>Prize Goods</hi> by the <hi>Arms of Rotterdam,</hi> to be made at the <hi>Eaſt-India-Houſe,</hi> on Thurſ<g ref="char:EOLhyphen"/>day the 14th. of <hi>May 1674,</hi> at Eight of the Clock in the Morning; the particulars are, <hi>VIZ.</hi>
+            </head>
+            <list>
+               <item>
+                  <list>
+                     <head>To reduce them to yards, by the Meaſure that is upon each piece; and to allow a yard upon a piece; or to meaſure them, and al<g ref="char:EOLhyphen"/>low nothing.</head>
+                     <item>1 Caſe, No. 125 Containing 7 pcs. Scarlet, from No. 1, to 7, cont. 229 yards, or thereabouts; at 13 <hi>s. per</hi> yard, to advance 2 <hi>d. per</hi> yard, in 1 Lott.</item>
+                     <item>1 Caſe, No. 128 Cont. 7 pcs. Crimſon, from No. 22, to 28, cont. 234 yards, or thereabouts; at 12 <hi>s. per</hi> yard, to advance 2 <hi>d. per</hi> yard, in 1 Lott.</item>
+                     <item>1 Caſe, No. 132 Cont. 7 pcs. Crimſon, from No. 50, to 56, cont. 209 yards, or thereabouts; at 8 <hi>s. per</hi> yard, to advance 2 <hi>d. per</hi> yard, in 1 Lott</item>
+                     <item>1 Caſe, No. 133 Cont. 7 pcs. Red Cloth, from No. 57, to 63, cont. 223 yards, or thereabouts, at 7 <hi>s. per</hi> yard, to advance 1 <hi>d.</hi>
+                     </item>
+                     <item>3 Remanants 9 Cont. 41 yards of Scatlet and Crimſon, at 10 <hi>s. per</hi> yard, to advance 2 <hi>d.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>2 Small Caſes of Amber at 5 <hi>s. per l.</hi> to advance 1 <hi>d.</hi>
+               </item>
+               <item>180 Barrels of Mum,<note place="margin">50 50 50 30</note> Brown Hollands Beer, or what it is, at 13 <hi>s.</hi> 4 <hi>d. per</hi> barr. to advance 2 <hi>d.</hi> in 4 Lotts</item>
+               <item>10 Leadgers and 1 Punch of Spaniſh Wine,<note place="margin">3 No. 1, 2, 3,</note> or what it is, at 19 <hi>l. per</hi> 236 gall. in 3 Lotts,<note place="margin">4 No. 4, 5, 6, 7,</note> advance 4 <hi>s. per</hi> Ton</item>
+               <item>8 Leadgers of Rheniſh Wine,<note place="margin">3 No. 8, 9, 10, 11 a punch.</note> at 5 <hi>l. per</hi> Aume, in 2 Lotts, to advance 12 <hi>d.</hi>
+                  <note place="margin">4 No. 1, 2, 3, 4,</note> 
+                  <note place="margin">4 No. 5, 6, 7, 8.</note>
+               </item>
+               <item>21 Punchons of Vinegar, at 12 <hi>l. per</hi> Ton, in 1 Lott, advance 2 <hi>s:</hi>
+               </item>
+               <item>5 Rundlets of Rack, at 16 <hi>d. per</hi> gall. in 1 Lott, at 1 <hi>d.</hi>
+               </item>
+               <item>4. Firkins of Butter in barrels of Pickle, at 23 <hi>s. per</hi> Firkin, 1 Lott, to advance 6 <hi>d.</hi>
+               </item>
+               <item>15 Rundlets of Oyle, at 2 <hi>s. per</hi> gall. in 1 Lott, ro advance 1 <hi>d.</hi>
+               </item>
+               <item>1 Cheſt, No. 135, cont. 220 New Teſtaments of the Malaw Language, at 12 <hi>d.</hi> each, in 1 Lott, advance 1 <hi>d.</hi>
+               </item>
+               <item>1 Cheſt, No. 134, cont. 6 Bundles of Small Books, and 283 Prayer-Books, at 6 <hi>l.</hi> 13 <hi>s.</hi> 8 <hi>d.</hi> to advance 6 <hi>d.</hi>
+               </item>
+               <item>1 Cheſt, cont. 150 bundles of Ruſhes, at 3 <hi>d. per</hi> bundle, advance 1/4.</item>
+               <item>10 Drum hhds. and 1 butt of Pruens, at 7 <hi>s. per Cent.</hi> Tare 84 <hi>l. per</hi> hhd. and 1 <hi>C. per</hi> butt, to advance 1 <hi>d.</hi>
+               </item>
+               <item>2 Terces of Glew at 16 <hi>s. per Cent.</hi> Tare 70 <hi>l.</hi> each, to advance 2 <hi>d.</hi>
+               </item>
+               <item>3 Rundlets of Spruce Beer, cont. 40 gall. or thereabouts, at 2 <hi>s.</hi> 6 <hi>d. per</hi> gall. to advance 1 <hi>d.</hi>
+               </item>
+               <item>2 Caſes of Iſonglaſs, cont. about 1 C. 0, 13, at 3 <hi>s.</hi> 6 <hi>d. per l.</hi> to advance 1 <hi>d.</hi>
+               </item>
+               <pb facs="tcp:133317:2"/>
+               <item>
+                  <list>
+                     <head>In 1 Lott, to advance 1 <hi>q.</hi> on each Parcel, as they ſtand.</head>
+                     <item>1 Cheſt of Coopers Tools, cont. as ſolloweth,
+<list>
+                           <item>47 Round Shaves, at 8 <hi>d.</hi> each,</item>
+                           <item>42 Howells, at 6 <hi>d.</hi> each,</item>
+                           <item>16 doz. of Percers, at 3 <hi>s. per</hi> doz.</item>
+                           <item>5 Boxes of Gilt Leaf, 4 <hi>s. per</hi> Box,</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>In 1 Lott, to advance 2 <hi>d.</hi> each paracel.</head>
+                     <item>2 Cheſts, cont. 100 Iron Plates, at 18 <hi>s. per C.</hi>
+                     </item>
+                     <item>20 Tew Irons caſt for Bellowes, at 4 <hi>s. per C.</hi>
+                     </item>
+                     <item>5 Beak Irons for Smiths, at 20 <hi>s. per C.</hi>
+                     </item>
+                     <item>1 Pair Woodden Screws, at 20 <hi>s.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>In 1 Lott, to advance 12 <hi>d. per C.</hi>
+                     </head>
+                     <item>23 Copper Kettles, at 5 <hi>l.</hi> 10 <hi>s. per C</hi>
+                     </item>
+                     <item>21 Copper Plates or bottoms, at 5 <hi>l. per C.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>In 1 Lott, to advance 1 <hi>d.</hi> upon each price.</head>
+                     <item>6 Doz. and 3 p. of Pinchers, at 3 <hi>s. per</hi> doz.</item>
+                     <item>2 Drills, at 2 <hi>s.</hi> 6 <hi>d</hi> each</item>
+                     <item>8 Doz. and 4 ſmall Bruſhes, at 1 <hi>s.</hi> 6 <hi>d. per</hi> doz.</item>
+                     <item>13 Doz. Carpenters Braſs Compaſſes, with Iron points, at 10 <hi>s. per</hi> doz.</item>
+                     <item>3 Iron Collars for Turners, at 3 <hi>s.</hi> each</item>
+                     <item>36 Handvices, at 12 <hi>d.</hi> each</item>
+                     <item>30 Braſs Cocks at 12 <hi>d.</hi> each</item>
+                     <item>30 Small Cabbin Bells, at 9 <hi>d. per l.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>In 1 Lott. to advance 1 <hi>d.</hi> upon each.</head>
+                     <item>1 Cheſt, No. 2 of Sea Compaſſes, <hi>&amp;c.</hi>
+                        <list>
+                           <item>2 Doz. and 1 Sea Compaſſes at 30 <hi>s. per</hi> doz.</item>
+                           <item>2 Boxes, cont. 34 Square Glaſſes for Compaſſes, at 1 <hi>s.</hi> 6 <hi>d. per</hi> doz.</item>
+                           <item>1 Box, cont. 6 doz. Cards for Compaſſes, 4 <hi>s. per</hi> doz.</item>
+                           <item>1 Box, cont. 18 Round Glaſſes for Compaſſes, 12 <hi>d. per</hi> doz.</item>
+                        </list>
+                     </item>
+                     <item>1 Cheſt, No. 3. cont.
+<list>
+                           <item>2 Doz. Sea Compaſſes, at 30 <hi>s. per</hi> doz.</item>
+                           <item>46 Half-hour Glaſſes, at 4 <hi>d.</hi> each</item>
+                           <item>16 Round Glaſſes, at 12 <hi>d. per</hi> doz.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>all at 31 <hi>s.</hi> to advance 6 <hi>d.</hi>
+                     </head>
+                     <item>1 Cheſt of Cardis</item>
+                     <item>1 Cheſt of Wormwood</item>
+                     <item>1 Cask Roots in Sand</item>
+                     <item>4 Empty Caſes lined with Sheet Lead</item>
+                  </list>
+               </item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
